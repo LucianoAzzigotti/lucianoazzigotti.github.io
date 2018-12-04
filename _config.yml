@@ -28,12 +28,9 @@ skills:
  - Mediawiki, PHP, Javascript
  - Musical curator
  - Editor
- - SQL
- - REST
- - Tech Architecture
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
+blogfeed: http://grilloo.zztt.org/rss
 
 #Work experience is required
 roles:
