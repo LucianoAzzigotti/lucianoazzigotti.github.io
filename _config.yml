@@ -72,7 +72,7 @@ education:
 #       date: April 28, 2014
 
 # #List of works  repo/projects to include - optional
-projects repository:
+github:
    - zztt.org/d/vilanos
    - zztt.org/d/espinor
    - zztt.org/d/mbl
