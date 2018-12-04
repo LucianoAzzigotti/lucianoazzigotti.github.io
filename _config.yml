@@ -73,9 +73,10 @@ education:
 
 # #List of works  repo/projects to include - optional
 github:
-   - zztt.org/d/vilanos
-   - zztt.org/d/espinor
-   - zztt.org/d/mbl
+# - LucianoAzzigotti/ensi
+#    - zztt.org/d/vilanos
+#    - zztt.org/d/espinor
+#    - zztt.org/d/mbl
 #  - robhinds/spring-reactor-twitter
 #  - robhinds/microservices
 #  - robhinds/spring-social-geeklist
